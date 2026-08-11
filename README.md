@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./ZahraTheAnalyst-ezgif.com-optimize.gif" width="100%">
 </p>
-# 💊📊 Hi, I'm Zahra!
+💊📊 Hi, I'm Zahra!
 
 ### Pharmacist | Data Technician at Leep Group | Future Healthcare Data Professional
 
